@@ -6,7 +6,7 @@
     "lang": "en",
     "code": 46,
     "version": "1.4.46",
-    "nsfw": 1,
+    "nsfw": 0,
     "sources": [
       {
         "name": "MangaRead.org",
@@ -108,7 +108,7 @@
     "lang": "en",
     "code": 45,
     "version": "1.4.45",
-    "nsfw": 1,
+    "nsfw": 0,
     "sources": [
       {
         "name": "Kun Manga",
