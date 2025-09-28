@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Tachiyomi: MangaRead.org",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangareadorg",
+    "apk": "tachiyomi-en.mangareadorg-v1.4.46.apk",
+    "lang": "en",
+    "code": 46,
+    "version": "1.4.46",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "MangaRead.org",
+        "lang": "en",
+        "id": "2681651342533848540",
+        "baseUrl": "https://www.mangaread.org"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Aqua Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.aquamanga",
+    "apk": "tachiyomi-en.aquamanga-v1.4.53.apk",
+    "lang": "en",
+    "code": 53,
+    "version": "1.4.53",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Aqua Manga",
+        "lang": "en",
+        "id": "626267698662819838",
+        "baseUrl": "https://aquareader.net"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: AllManga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.allanime",
+    "apk": "tachiyomi-en.allanime-v1.4.9.apk",
+    "lang": "en",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "AllManga",
+        "lang": "en",
+        "id": "4709139914729853090",
+        "baseUrl": "https://allmanga.to"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Asura Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
+    "apk": "tachiyomi-en.asurascans-v1.4.48.apk",
+    "lang": "en",
+    "code": 48,
+    "version": "1.4.48",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Asura Scans",
+        "lang": "en",
+        "id": "6247824327199706550",
+        "baseUrl": "https://asuracomic.net"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Drake Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.drakescans",
+    "apk": "tachiyomi-en.drakescans-v1.4.44.apk",
+    "lang": "en",
+    "code": 44,
+    "version": "1.4.44",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Drake Scans",
+        "lang": "en",
+        "id": "8284219650954312474",
+        "baseUrl": "https://drakecomic.org"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Flame Comics",
+    "pkg": "eu.kanade.tachiyomi.extension.en.flamecomics",
+    "apk": "tachiyomi-en.flamecomics-v1.4.44.apk",
+    "lang": "en",
+    "code": 44,
+    "version": "1.4.44",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Flame Comics",
+        "lang": "en",
+        "id": "8531542650987673943",
+        "baseUrl": "https://flamecomics.xyz"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Kun Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.kunmanga",
+    "apk": "tachiyomi-en.kunmanga-v1.4.45.apk",
+    "lang": "en",
+    "code": 45,
+    "version": "1.4.45",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Kun Manga",
+        "lang": "en",
+        "id": "987549744200556532",
+        "baseUrl": "https://kunmanga.com"
+      }
+    ]
+  }
+]
