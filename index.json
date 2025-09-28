@@ -117,5 +117,23 @@
         "baseUrl": "https://kunmanga.com"
       }
     ]
+  },
+  {
+    "name": "Tachiyomi: Weeb Central",
+    "pkg": "eu.kanade.tachiyomi.extension.en.weebcentral",
+    "apk": "tachiyomi-en.weebcentral-v1.4.16.apk",
+    "lang": "en",
+    "code": 16,
+    "version": "1.4.16",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Weeb Central",
+        "lang": "en",
+        "id": "2131019126180322627",
+        "baseUrl": "https://weebcentral.com",
+        "versionId": 1
+      }
+    ]
   }
 ]
