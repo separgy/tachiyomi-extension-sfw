@@ -70,7 +70,7 @@
   {
     "name": "Tachiyomi: Drake Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.drakescans",
-    "apk": "tachiyomi-en.drakescans-v1.4.44.apk",
+    "apk": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.drakescans-v1.4.44.apk",
     "lang": "en",
     "code": 44,
     "version": "1.4.44",
